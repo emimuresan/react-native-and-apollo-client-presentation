@@ -1,6 +1,6 @@
 # Introduction to React-Native and Apollo-Client
 
-Using [Github's GraphQL API](https://developer.github.com/v4/) as a backend, we'll be working on a small client app in ⚛️ react-native + 🚀 apollo-client. This app will serve as a playground, and help us cover these topics:
+Using [Github's GraphQL API](https://developer.github.com/v4/) as a backend, we'll be working on a small client app in ⚛️ React-Native and 🚀 Apollo-Client. This app will serve as a playground, and help us cover these topics:
 * getting started with react-native: using expo vs. building projects with native code
 * handling routing via react-navigation
 * setting up apollo-client and executing some basic operations (queries, mutations)
